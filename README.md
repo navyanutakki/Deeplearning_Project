@@ -1,5 +1,5 @@
 # Final_Project
-* Comparison of BERT, RoBERTa, Albert on MIT Movie and MIT Restaurant datasets *
+* Comparison of BERT, RoBERTa, Albert on MIT Movie and MIT Restaurant datasets 
 
 For this project, we worked on two datasets MIT Movie and MIT Restaurant. Each dataset has different type of data. 
 Pre-processing of this data is done to create new_labels for each sentence. Then this pre-processed data or encoded tokens and the new labels are given to three models  BERT, RoBERTa, Albert. These models were fine-tuned intially for Token Classification task with a linear token classification layer on the top of models.
